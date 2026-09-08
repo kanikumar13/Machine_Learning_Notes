@@ -1,1 +1,1 @@
-Overview of Machine Learning 
+Overview of Machine Learning Course
