@@ -1,0 +1,2 @@
+What are SQL Joins?
+SQL joins are operations in a relational database that allow you to combine rows from two or more tables based on a related column between them. They are essential for querying data that is distributed across multiple tables in a structured manner.
